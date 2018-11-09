@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_236586_time_mana_time_management_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 14:04:02</sys_created_on>
+        <sys_id>e07ab963dbe12300e5c2fe1b689619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_236586_time_mana_time_management_table</sys_name>
+        <sys_package display_value="Time Management" source="x_236586_time_mana">087ab523dbe12300e5c2fe1b689619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Management">087ab523dbe12300e5c2fe1b689619b9</sys_scope>
+        <sys_update_name>ua_table_licensing_config_e07ab963dbe12300e5c2fe1b689619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 14:04:02</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
